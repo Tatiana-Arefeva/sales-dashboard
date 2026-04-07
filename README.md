@@ -118,4 +118,4 @@
 ## 👤 Автор
 
 **Tatiana Arefeva**  
-Junior BI Analyst
+ BI Analyst
